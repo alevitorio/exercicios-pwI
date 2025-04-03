@@ -107,4 +107,3 @@ Crie uma página completa com:
 
 ---
 
-Essa lista de exercícios vai ajudar os alunos a fixarem a estrutura básica do HTML de forma divertida e prática! 🚀
