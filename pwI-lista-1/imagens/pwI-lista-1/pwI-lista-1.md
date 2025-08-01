@@ -51,7 +51,7 @@ Se você está começando, siga estas etapas
 
 ---
 
-### 💡 Como usar este conteúdo?
+<!--### 💡 Como usar este conteúdo?
 
 1. Crie um arquivo `index.html` e copie o conteúdo abaixo para estruturar a página:
 
@@ -105,4 +105,4 @@ Se você está começando, siga estas etapas
 2. Abra o arquivo no navegador e veja como fica o conteúdo formatado.
 3. Substitua as imagens por outras que você preferir.
 
-🚀 **Divirta-se codando!**
+🚀 **Divirta-se codando!**-->
