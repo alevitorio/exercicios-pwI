@@ -1,7 +1,3 @@
-Aqui está uma lista de exercícios para seus alunos praticarem a estrutura básica do HTML.  
-
----
-
 ### **📌 Lista de Exercícios – Estrutura Básica do HTML**  
 
 **Instruções:**  
