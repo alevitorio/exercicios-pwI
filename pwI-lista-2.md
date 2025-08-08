@@ -49,6 +49,3 @@ Crie uma página completa com:
 - Uma lista `<ul>` ou `<ol>`.  
 - Um rodapé `<footer>` com seu nome.  
 
----
-
-Essa lista de exercícios vai ajudar os alunos a fixarem a estrutura básica do HTML de forma divertida e prática! 🚀
