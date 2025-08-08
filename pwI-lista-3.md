@@ -103,7 +103,3 @@ Olá! Meu nome é **Ana Souza** e sou desenvolvedora web especializada em criaç
 - **Email:** anasouza.dev@email.com  
 - **LinkedIn:** [linkedin.com/in/anasouza](#)  
 - **GitHub:** [github.com/anasouza](#)  
-
----
-
-Esses textos podem ser usados diretamente no **Markdown** ou convertidos para HTML facilmente. Se precisar de mais ajustes ou quiser outros exemplos, me avise! 🚀😊
